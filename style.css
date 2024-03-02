@@ -181,50 +181,9 @@ a{
     font-size: 150px;
 
 }
-.python{
-    width: 500px;
-    height: 350px;
-    background: transparent;
-    border: 5px solid green;
-    border-radius: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: green;
-    font-size: 150px;
-    position:absolute;
-    margin-top: 550px;
-    margin-left:-1350px ;
-   
-}
-.figma{
-    width: 500px;
-    height: 350px;
-    background:transparent;
-    border: 5px solid red;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: red;
-    font-size: 150px;
-    margin-top: 550px;
-    border-radius: 10px;
-}
-.react{
-    width: 500px;
-    height: 350px;
-    background:transparent;
-    border: 5px solid blue;
-    position: absolute;
-    margin-left: 1300px;
-    margin-top: 550px;
-    border-radius: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 150px;
-    color: blue;
-}
+
+
+
 .contact{
     font-size: 100px;
     margin-left: -1200px;
@@ -259,6 +218,19 @@ a{
     }
     .txt1,.txt2,.txt3{
         font-size: 45px;
+    }
+    .html,.css,.js{
+        width: 200px;
+        height:200px ;
+    }
+    .css{
+        position: absolute;
+    }
+    .js{
+        margin-left: -450px;
+    }
+    .html{
+        margin-left: 450px;
     }
     
 

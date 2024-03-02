@@ -44,26 +44,5 @@ js.addEventListener('mouseleave',() =>{
     head.style.background = "#2f0272"
 
 })
-python.addEventListener("mouseover",() =>{
-    head.style.background = 'green'
-})
-python.addEventListener('mouseleave',() =>{
-    head.style.background = "#2f0272"
 
-})
-var figma = document.querySelector('.figma')
-figma.addEventListener('mouseover', () =>{
-     head.style.background = 'red'
-} )
-figma.addEventListener('mouseleave',() =>{
-    head.style.background = "#2f0272"
 
-})
-var react = document.querySelector('.react')
-react.addEventListener('mouseover', () =>{
-    head.style.background = 'blue'
-})
-react.addEventListener('mouseleave',() =>{
-    head.style.background = "#2f0272"
-
-})
