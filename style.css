@@ -247,3 +247,19 @@ a{
     margin-left: -1100px;
     margin-top: -50px;
 }
+
+
+@media screen and (max-width:768px){
+    body{
+        width: 768px;
+    }
+    .abt{
+        font-size: 20px;
+        margin-top: -30px;
+    }
+    .txt1,.txt2,.txt3{
+        font-size: 45px;
+    }
+    
+
+}
